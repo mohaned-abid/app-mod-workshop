@@ -1,6 +1,6 @@
 <?php
 // **HIGHLY INSECURE - DO NOT DO THIS IN PRODUCTION**
-$db_host = 'test-project-451514:europe-west8:appmod-phpapp'; // Replace with your instance connection name
+$db_host = '34.154.89.122'; // Replace with your instance connection name
 $db_name = 'image_catalog'; //Replace with your database name
 $db_user = 'appmod-phpapp-user'; //Replace with your database username
 $db_pass = 'admin'; //Replace with your database password
